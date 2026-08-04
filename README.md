@@ -8,18 +8,28 @@
 
 ## 🛠️ Herramientas y Tecnologías
 
-- **Lenguajes**: Python 🐍, SQL 📊  
-- **Machine Learning**: Scikit-learn 🤖, TensorFlow 🔬  
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Bases de datos**: PostgreSQL, MySQL  
-- **Entornos**: Jupyter Notebook, GitHub, VS Code  
-- **Otros**: Excel avanzado, Power BI 📈  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 -Cooking
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
 ---
 
