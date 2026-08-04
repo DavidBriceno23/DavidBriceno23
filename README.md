@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hola, soy David
 
-<!--
-**DavidBriceno23/DavidBriceno23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Practicante en el área de **Data & Analytics** de Mibanco
+💼 Apasionado por aplicar **Machine Learning** y **procesamiento de datos** en entornos financieros.  
+📍 Bogotá, Colombia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas y Tecnologías
+
+- **Lenguajes**: Python 🐍, SQL 📊  
+- **Machine Learning**: Scikit-learn 🤖, TensorFlow 🔬  
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Bases de datos**: PostgreSQL, MySQL  
+- **Entornos**: Jupyter Notebook, GitHub, VS Code  
+- **Otros**: Excel avanzado, Power BI 📈  
+
+---
+
+## 🚀 Proyectos Destacados
+
+-Cooking
+
+---
+
+## 📊 Intereses
+
+- Machine Learning aplicado a **finanzas y riesgo crediticio**  
+- Procesamiento de imágenes y datos para **detección de fraude**  
+- Optimización de modelos con **regularización y métricas avanzadas**  
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: [www.linkedin.com/in/david-alejandro-briceño-estupiñan-94204a381]  
+- Correo: [davidalejandrobricenoestupinan@gmail.com]
+
+---
+
